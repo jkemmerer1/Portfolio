@@ -2,18 +2,10 @@
 
 ---
 
-This repository is home to five of my senior-year computational physics projects: 
+This repository contains some of my recent projects in data analysis: 
 
-* [fourier_sawtooth.ipynb](https://github.com/josephgodoy/portfolio/blob/master/fourier_sawtooth.ipynb), a simple Fourier series demonstration.
+* [Business_Closures.pdf](https://github.com/jkemmerer/portfolio/blob/master/fourier_sawtooth.ipynb): An analysis of the impact of socioeconomic factors on business closure rates in San Francisco during the COVID-19 pandemic. I performed this analysis using spatial visualisation, examination of correlation between variables, and K-means clustering on large sets of demographic and business data from the American Community Survey, Decennial Census, and datasf. The analysis revealed a potential relationship between these variables, in which areas with higher low-income and non-white populations show a higher rate of business closure in the period of 2020-2024. 
 
-* [hovercraft.ipynb](https://github.com/josephgodoy/portfolio/blob/master/hovercraft.ipynb), a differential equation-based model of a hovercraft's motion.
-
-* [sine_map_chaos.ipynb](https://github.com/josephgodoy/portfolio/blob/master/sine_map_chaos.ipynb), an exploration into the chaotic behavior of the sine map.
-
-* [fdm_wave_equation.ipynb](https://github.com/josephgodoy/portfolio/blob/master/fdm_wave_equation.ipynb), an application of the finite-difference method for solving wave equations.
-
-and my personal favorite, the semester project:
-
-* [notebook_1_injection_orbit.ipynb](https://github.com/josephgodoy/portfolio/blob/master/notebook_1_injection_orbit.ipynb) and [notebook_2_cycler_petals.ipynb](https://github.com/josephgodoy/portfolio/blob/master/notebook_2_cycler_petals.ipynb), in which I model trans-lunar injection orbits and free-return cycler orbits from noninertial reference frames.
+* Analyzing the Landscape of Funding for Environmental and Climate Action: An analysis performed in collaboration with environmental nonprofit Ten Strands, aiming to examine correlation between funding for environmental initiatives and evidence of environmental action in California school districts. Dataset includes ~300 indicators over 938 school districts. Analysis is ongoing, so results will be available in April-May 2026.
 
 Please enjoy!
